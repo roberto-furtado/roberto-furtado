@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I am Roberto Furtado👋
+
+- 🌱 I’m currently learning:
+
+<div style="display: inline_block" ><br/>
+  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div><br/>
 
 <!--
 **roberto-furtado/roberto-furtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
